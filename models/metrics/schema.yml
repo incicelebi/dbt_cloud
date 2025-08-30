@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: metrics_analytics
+    tables:
+      - name: rawdata_agg
+        description: "aggregated user-level daily metrics"
